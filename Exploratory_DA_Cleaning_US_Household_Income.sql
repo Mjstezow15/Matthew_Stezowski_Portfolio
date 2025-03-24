@@ -43,7 +43,7 @@ ORDER BY 2 DESC
 LIMIT 5
 ;
 
-# Combine the Tables with INNER JOIN to Analyze All Data
+# Combine the Tables with INNER JOIN to Analyze Data
 
 SELECT *
 FROM us_household_income u
